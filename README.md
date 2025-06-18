@@ -38,3 +38,5 @@ In conclusion, this automated reporting solution provides a streamlined approach
 
 
 ##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c0c17d1a-8e6d-43e4-bd7a-4dd4bfb2f8b6)
